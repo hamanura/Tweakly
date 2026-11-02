@@ -26,4 +26,4 @@
 
 ## Обратная связь
 
-Баги, вопросы и идеи: [@hamanura](https://t.me/hamanura)
+Баги, вопросы и идеи: [@hamanurik](https://t.me/hamanurik)
