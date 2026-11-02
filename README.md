@@ -4,7 +4,7 @@
 
 [Открыть бота](https://t.me/WebTweakly_bot)
 
-<img width="1254" height="736" alt="photo_2026-11-01_11-24-07" src="https://github.com/user-attachments/assets/5da49db5-8b6d-44fd-bcde-f9cf9d2def66" />
+<img width="1254" height="736" alt="Tweakly-Preview" src="https://github.com/user-attachments/assets/5da49db5-8b6d-44fd-bcde-f9cf9d2def66" />
 
 ## Как это работает
 
