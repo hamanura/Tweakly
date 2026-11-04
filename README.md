@@ -31,6 +31,9 @@
 ## Документация
 
 - [Быстрый старт](GETTING_STARTED.md)
+- [Как работает Tweakly](HOW_IT_WORKS.md)
+- [Сценарии использования](USE_CASES.md)
+- [Конфиденциальность](PRIVACY.md)
 - [Частые вопросы](FAQ.md)
 - [История обновлений](CHANGELOG.md)
 - [Планы развития](ROADMAP.md)
